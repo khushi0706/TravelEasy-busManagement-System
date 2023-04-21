@@ -9,3 +9,4 @@ Easily create and manage bus schedules for different routes and dates.
 - **Customer Data:** Store and manage customer information, including contact details and travel history.
 - **Reporting:** Generate reports on bookings, revenue, and other metrics to help you make data-driven decisions.
 - **User Roles:** Manage user access and roles, from administrators to staff members.
+![image](https://user-images.githubusercontent.com/96778933/233687695-0fb167c4-0e0b-4c17-8953-22d626d20356.png)
