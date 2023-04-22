@@ -30,8 +30,8 @@ When the user runs the algorithm, five options are displayed, as shown...<br>
 **Option 5** - *Exit*: Allows the user to exit the program. <br>
 <img width="263" alt="image" src="https://user-images.githubusercontent.com/96778933/233765038-fc06741a-5329-4871-b7ea-d924c6a3092f.png">
 
-<br> 
+ 
 ## Conclusion:
 TravelEasy Bus Management System is a powerful tool for bus companies looking to streamline their operations and provide better service to their customers. With features such as booking management, customer data storage, and reporting, this system makes it easy to manage bus schedules and bookings.
-
+<br>
 **Thank you for taking the time to check out TravelEasy - Your Ultimate Travel Companion. We hope that our project can make your travel experience easier and more enjoyable. If you have any questions or feedback, please feel free to reach out to us. Happy travels!**
