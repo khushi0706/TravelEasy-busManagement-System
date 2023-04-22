@@ -22,6 +22,7 @@ When the user runs the algorithm, five options are displayed, as shown...
 
 **Option 2** - *Reservation* : Lets the user reserve a bus seat by entering the bus number, seat number, and passenger name. The algorithm marks the seat with the passenger's name. If the seat is already reserved, the user is notified and asked to enter a different seat number.
 
-![image](https://user-images.githubusercontent.com/96778933/233690109-ecf5563c-6f6f-429d-9f2d-1500884199fc.png)
+<img width="688" alt="image" src="https://user-images.githubusercontent.com/96778933/233764594-861322a3-81ac-4368-9931-40c5bb00e026.png">
+
 
 
