@@ -11,8 +11,9 @@ Easily create and manage bus schedules for different routes and dates.
 - **User Roles:** Manage user access and roles, from administrators to staff members.
 
 ## How TravelEasy Works:
-When the user runs the algorithm, five options are displayed, as shown...
 ![image](https://user-images.githubusercontent.com/96778933/233701526-02b82419-73d8-444e-a271-de3aa5ddf916.png)
+
+When the user runs the algorithm, five options are displayed, as shown...
 
 
 **Option 1** - *Install* : allows the user to input bus details, which are stored using arrays in an object array element.
